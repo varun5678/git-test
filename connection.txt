@@ -1,1 +1,2 @@
 This is connection file.
+Adding exxternal application details.
